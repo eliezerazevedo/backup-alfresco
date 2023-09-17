@@ -1,3 +1,5 @@
+Script para criação de Backup do Alfresco v7
+
 
 # Programar Automaçao de Backup
 
